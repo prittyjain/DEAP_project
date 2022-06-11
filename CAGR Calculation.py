@@ -32,3 +32,5 @@ mycursor.execute(alter)
 print("thankyou")
 
 print("vitish")
+
+print("pritty")
